@@ -1,4 +1,4 @@
-package calcy
+package calc
 
 import "testing"
 

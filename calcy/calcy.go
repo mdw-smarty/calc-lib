@@ -1,4 +1,4 @@
-package calcy
+package calc
 
 type Addition struct{}
 type Subtraction struct{}
