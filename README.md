@@ -8,7 +8,13 @@ See github.com/mdwhatcott/calc-apps for the other part.
 
 ## Task 0
 
-Define a struct called `Addition` which implements the following interface: `type Calculator { Calculate(a, b int) int }`
+Define a struct called `Addition` which implements the following interface: 
+
+```
+type Calculator interface { 
+    Calculate(a, b int) int
+}
+```
 
 ## Task 1
 
